@@ -1,5 +1,5 @@
 # SLAM With Movable Objects In Interactive Environment
-[CH](README_CH.md)
+[CH](README_CH.md) | [Paper](https://hdl.handle.net/11296/yqv8hh)
 
 
 ![Demo GIF](show/MO_SLAM(object-move).gif)
